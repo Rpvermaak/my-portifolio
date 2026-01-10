@@ -60,8 +60,6 @@ I am currently pursuing the Google Advanced Data Analytics Professional certific
 ![Alt text](assets/img/1_tI-TWV--K05xbXUgA4Qm1w.png)
 
 ## Additional
-
-* **Volunteer work:**
 * DataKind event(Fall 2025) Nov 5 - Dec 5 [View](https://github.com/Rpvermaak/datakit-smallholder-farmers-fall-2025/blob/main/Challenge%201%20_Weather%20Patterns/Ruben%20Vermaak/Challenge_1_Identifying_patterns_in_weather_and_agriculture_ruben_vermaak.ipynb)
 ![Alt text](assets/img/DataKindCert.png)
 * SASOL Tree Planting initiative, Park clean up initiative, Working on Fire - volunteer firefighter
